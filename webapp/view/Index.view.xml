@@ -1,0 +1,17 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="br.com.pratica.sapes5apppratica.controller.App" displayBlock="true">
+<App id="_IDGenApp1">
+    <pages> 
+        <Page id="page" title="{i18n>title}">
+            <content>
+            <Toolbar width="100%" id="toolbar1">
+            </Toolbar>
+            <Toolbar width="100%" id="toolbar1_1654792914106">
+            <content>
+
+            </content>
+            </Toolbar>
+            </content>
+        </Page>
+    </pages>
+</App>
+</mvc:View>
